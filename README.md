@@ -9,3 +9,5 @@ Bioinformatics single-cell analysis skills practice
 + [拟时序分析：monocle2](https://github.com/singleron-RD/BioinfoTraining/blob/main/Trajectory_analysis.ipynb)
   
 + [富集分析：clusterprofiler，GSVA，GSEA](https://github.com/singleron-RD/BioinfoTraining/blob/main/Enrichment_analysis.ipynb)
+
++ [Celescope：install, sc-RNA，TCR，TCR combine with scRNA, TAG](https://github.com/Chenjunjie1996/BioinfoTraining/tree/main/Celescope)
